@@ -2,13 +2,13 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Daniel Geiszler's home on the web!
+I like proteins, policy, and people.
 
 **Current me:**
 * bioinformatics PhD candidate [University of Michigan](https://umich.edu/)
