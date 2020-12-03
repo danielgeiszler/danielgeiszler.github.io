@@ -25,3 +25,9 @@ I like proteins, policy, and people.
 
 **Future me:**
 * using proteins and policy to improve people's lives
+
+**Things I can do:**
+* statistics and data science
+* proteomics, molecular biology, and biochemistry
+* Python, Java, C++
+* English, Spanish (limited working proficiency), Turkish (working on it)
