@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Geiszler"
+title                    : "About"
 title_separator          : "-"
-name                     : &name "Daniel Geiszler"
+name                     : &name "Daniel J Geiszler"
 description              : &description "PhD Candidate studying Computational Proteomics"
 url                      : https://danielgeiszler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Geiszler"
+  name             : "Daniel J Geiszler"
   avatar           : "profile.png"
   bio              : "PhD Candidate studying Computational Proteomics"
   location         : "Ann Arbor, MI"
