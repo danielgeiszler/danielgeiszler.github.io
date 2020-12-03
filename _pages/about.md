@@ -17,17 +17,17 @@ I like proteins, policy, and people.
 * member of the [Nesvizhskii Lab](https://www.nesvilab.org/)
 
 **Past me:**
-* baccalaureate degrees in Biotechnology and Chemistry from [CSU San Marcos](https://www.csusm.edu/)
+* earned baccalaureate degrees in Biotechnology and Chemistry from [CSU San Marcos](https://www.csusm.edu/)
 * researched computational structural biology under [Dr. Katherine Kantardjieff](https://www.linkedin.com/in/katherinekantardjieff/)
-* College of Science and Mathematics representative in [student government](https://www.csusm.edu/asi/)
-* Sustainability Club co-founder
-* magna cum laude graduate
+* represented the College of Science and Mathematics in [student government](https://www.csusm.edu/asi/)
+*  co-founded Sustainability Club
+* graduated magna cum laude
 
 **Future me:**
 * using proteins and policy to improve people's lives
 
 **Things I can do:**
-* statistics and data science
 * proteomics, molecular biology, and biochemistry
-* Python, Java, C++
-* English, Spanish (limited working proficiency), Turkish (working on it)
+* statistics and data science
+* Python, Java, and C++
+* English, Spanish (limited working proficiency), and Turkish (working on it)
