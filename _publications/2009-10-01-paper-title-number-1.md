@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Integrated proteogenomic characterization of clear cell renal cell carcinoma"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-10-31-integrated-proteogenomic-characterization-of-clear
+excerpt: 'This study reports a large-scale proteogenomic analysis of ccRCC to discern the functional impact of genomic alterations and provides evidence for rational treatment selection stemming from ccRCC pathobiology.'
+date: 2020-10-31
+venue: 'Cell'
+paperurl: 'https://doi.org/10.1016/j.cell.2019.10.007'
+citation: 'David J. Clark, [39 authors], **Daniel Geiszler**,[39 authors]. (2019). &quot;Integrated proteogenomic characterization of clear cell renal cell carcinomia.&quot; <i>Cell</i>. https://doi.org/10.1016/j.cell.2019.10.007'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study reports a large-scale proteogenomic analysis of ccRCC to discern the functional impact of genomic alterations and provides evidence for rational treatment selection stemming from ccRCC pathobiology.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.cell.2019.10.007)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: David J. Clark, [39 authors], **Daniel Geiszler**,[39 authors]. (2019). &quot;Integrated proteogenomic characterization of clear cell renal cell carcinomia.&quot; <i>Cell</i>. https://doi.org/10.1016/j.cell.2019.10.007.
