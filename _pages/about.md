@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title:
+excerpt:
 author_profile: false
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ I like proteins, policy, and people.
 * member of the [Nesvizhskii Lab](https://www.nesvilab.org/)
 
 **Past me:**
-* bachelor's degrees in Biotechnology and Chemistry from [CSU San Marcos](https://www.csusm.edu/)
+* baccalaureate degrees in Biotechnology and Chemistry from [CSU San Marcos](https://www.csusm.edu/)
 * College of Science and Mathematics representative in [student government](https://www.csusm.edu/asi/)
 * Sustainability Club co-founder
 * magna cum laude graduate
