@@ -18,6 +18,7 @@ I like proteins, policy, and people.
 
 **Past me:**
 * baccalaureate degrees in Biotechnology and Chemistry from [CSU San Marcos](https://www.csusm.edu/)
+* researched computational structural biology under [Dr. Katherine Kantardjieff](https://www.linkedin.com/in/katherinekantardjieff/)
 * College of Science and Mathematics representative in [student government](https://www.csusm.edu/asi/)
 * Sustainability Club co-founder
 * magna cum laude graduate
