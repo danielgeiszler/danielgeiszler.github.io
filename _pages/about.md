@@ -11,7 +11,7 @@ redirect_from:
 I like proteins, policy, and people.
 
 **Current me:**
-* bioinformatics PhD candidate [University of Michigan](https://umich.edu/)
+* bioinformatics PhD candidate at [University of Michigan](https://umich.edu/)
 * developing software for mass spectrometry-based proteomics
 * using statistics and data science to study post-translational modifications
 * member of the [Nesvizhskii Lab](https://www.nesvilab.org/)
