@@ -12,4 +12,4 @@ citation: 'David J. Clark, [39 authors], <b>Daniel Geiszler</b>, [39 authors]. (
 
 [Download paper here](https://doi.org/10.1016/j.cell.2019.10.007)
 
-Please note that [a critical correction](https://www.cell.com/cell/pdf/S0092-8674(19)31388-1.pdf) was issued for this article.
+Please note that [a critical correction](https://doi.org/10.1016/j.cell.2019.12.026) was issued for this article.
