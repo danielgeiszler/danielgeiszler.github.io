@@ -6,7 +6,7 @@ excerpt: '<i>This study reports a large-scale proteogenomic analysis of ccRCC to
 date: 2020-10-31
 venue: 'Cell'
 paperurl: 'https://doi.org/10.1016/j.cell.2019.10.007'
-citation: 'David J. Clark, [39 authors], <b>Daniel Geiszler</b>, [39 authors]. (2019). &quot;Integrated proteogenomic characterization of clear cell renal cell carcinomia.&quot; <i>Cell</i>.'
+citation: 'David J. Clark, [39 authors], <b>Daniel Geiszler</b>, [39 authors]. (2019). &quot;Integrated proteogenomic characterization of clear cell renal cell carcinomia.&quot; <i>Cell</i>. .'
 ---
 This study reports a large-scale proteogenomic analysis of ccRCC to discern the functional impact of genomic alterations and provides evidence for rational treatment selection stemming from ccRCC pathobiology.
 
