@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "About Daniel"
 title_separator          : "-"
 name                     : &name "Daniel J Geiszler"
 description              : &description "PhD Candidate studying Computational Proteomics"
